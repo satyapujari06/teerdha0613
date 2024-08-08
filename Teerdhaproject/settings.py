@@ -85,7 +85,7 @@ DATABASES = {
         'NAME':'booking',
         'POST':'3306',
         'PASSWORD':'admin123456',
-        'HOST':'localhost',
+        'HOST':'saree.c528kg6649yp.us-east-1.rds.amazonaws.com',
         'USER':'admin'
     }
 }
@@ -142,5 +142,5 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER = 'developtrees1@gmail.com'
 EMAIL_HOST_PASSWORD = 'qvwqbjcxpvaysbjk'
 
-API_URL = 'http://54.90.97.208'
+API_URL = 'http://54.90.97.208:80'
 
